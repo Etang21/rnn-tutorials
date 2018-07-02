@@ -37,3 +37,9 @@ Q maintain       T maintained      ☒ aataiiined
 
 Regularization of LSTMs:
 https://machinelearningmastery.com/use-weight-regularization-lstm-networks-time-series-forecasting/
+
+RUN #5: Hidden-dim 128, Layers 3, no Regularization
+- Training loss and validation loss diverge a bunch
+- But validation loss comes down to 0.53ish, which is the best so farm
+
+Next ... will try reversing inputs
